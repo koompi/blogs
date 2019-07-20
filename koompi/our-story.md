@@ -31,3 +31,6 @@ Early on in our formative years, various businesses, NGOs and individuals began 
 We understood then how a customized Linux system would run lightning fast on this older technology, yet still provide all the power and convenience of a new MicroSoft or Apple system.
 
 The KOOMPI core team of developers is aligned with the heart of our nation and the world, working each day to provide the products and services you need to face tomorrow with confidence.
+
+===
+
