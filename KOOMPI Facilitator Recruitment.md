@@ -1,4 +1,4 @@
-We want a facilitator! And yes we mean what we just said. As we already mentioned since the early days from when we launched KOOMPI, what keeps us passionately do all the things we do now was our bold mission. Driven by our mission, we aim to build a strong army next generation of engineers, problem solvers, and discoverers. 
+We want facilitators! And yes we mean what we just said. As we already mentioned since the early days from when we launched KOOMPI, what keeps us passionately do all the things we do now was our bold mission. Driven by our mission, we aim to build a strong army next generation of engineers, problem solvers, and discoverers. 
 
 We ambitiously dream of equipping every high school from Cambodia with KOOMPI laptop that already programs with education content and programming languages to inspire the next generation to be the super-user. To accomplish that, we need a facilitator who needs to assist and support the activities within the computer lab located in every school. We call all of this as “ KOOMPI STEAM “ https://medium.com/koompi/koompi-steam-project-initiative-7ebd6e02b741
 
