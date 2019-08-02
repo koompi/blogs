@@ -6,7 +6,7 @@ Back at a time when we are still learning in our hometown, there we are still ju
 
 And here we are now, wish to make a transition on the existing curriculum. We make a vow and determine to be a turning point for education here in Cambodia. As we believe, the additional tools we provide will surely make an impact on the next generation.  
 
-It makes a big impression on our team as the kids there, they were smart to consider their very young age. But it seemed understandable for their ages to be playful and fill with a curious mind. In terms of basic knowledge, the kids already aware of using smart devices also they learn fun and simple code teach by their teacher. It feels encouraging to see girls are now taking part in the programming world, even though most of the kids are boys.
+It makes a big impression on our team as the kids there, they were smart to consider their very young age. In terms of basic knowledge, the kids already aware of using smart devices also they learn fun and simple code teach by their teacher. It feels encouraging to see girls are now taking part in the programming world, even though most of the kids are boys.
 
 “ I was overwhelmed by the fact that the kids volunteering to apply for the course by themselves without any force from their parent “. Said Mr. Vannak Soth, the principle of API school. It shows that the young generation has taken a big interest in the tech field and the effort for creating this course will surely give the fruit back.
 
